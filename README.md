@@ -193,8 +193,6 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 For support or questions, please open an issue on GitHub.
 
-For support or questions, please open an issue on GitHub.
-
 ---
 
 **Built with ❤️ for understanding geopolitics and its impact on India**
